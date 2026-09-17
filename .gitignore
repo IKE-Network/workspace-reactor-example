@@ -73,5 +73,3 @@ ike꞉*.md
 !.idea/
 !.idea/.gitignore
 !.idea/kotlinc.xml
-!.idea/encodings.xml
-!.idea/jarRepositories.xml
